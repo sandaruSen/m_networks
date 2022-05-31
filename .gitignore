@@ -1,0 +1,6 @@
+.idea/
+venv/
+
+data/AD_medal/csv_files/
+data/AD_medal/plots/
+data/AD_medal/sample_files/

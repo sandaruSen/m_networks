@@ -1,0 +1,553 @@
+{
+    "ES": [
+        "ejection fraction:EF",
+        "(drug) ES",
+        "extra strength",
+        "enhanced sensitivity",
+        "erythrocyte sedimentation rate:ESR",
+        "UNSURED SENSE"
+    ],
+    "ITP": [
+        "idiopathic thrombocytopenic purpura"
+    ],
+    "LA": [
+        "long-acting",
+        "UNSURED SENSE",
+        "Los Angeles",
+        "antinuclear antibody:ANA",
+        "left atrial",
+        "Louisiana"
+    ],
+    "SMA": [
+        "spinal muscular atrophy",
+        "superior mesenteric artery",
+        "sequential multiple autoanalyzer",
+        "smooth muscle actin",
+        "smooth muscle antibody",
+        "UNSURED SENSE"
+    ],
+    "RT": [
+        "NAME",
+        "retrograde tachycardia",
+        "right",
+        "respiratory therapy",
+        "radiation therapy",
+        "(drug) RT",
+        "respiratory therapist",
+        "UNSURED SENSE"
+    ],
+    "BK": [
+        "below knee",
+        "BK (virus)"
+    ],
+    "AC": [
+        "(drug) AC",
+        "angiotensin-converting enzyme:ACE",
+        "alternating current",
+        "acromioclavicular",
+        "acetate",
+        "abdominal circumference",
+        "anticoagulation",
+        "adriamycin cyclophosphamide",
+        "assist control",
+        "antecubital",
+        "before meals"
+    ],
+    "BAL": [
+        "bronchoalveolar lavage",
+        "blood alcohol level"
+    ],
+    "C3": [
+        "(complement) component 3",
+        "cervical (level) 3",
+        "propionylcarnitine",
+        "(stage) C3"
+    ],
+    "RA": [
+        "retinoic acid",
+        "right atrium",
+        "rheumatoid arthritis",
+        "room air",
+        "UNSURED SENSE"
+    ],
+    "SA": [
+        "methicillin-susceptible Staphylococcus aureus:MSSA",
+        "sinuatrial",
+        "MISTAKE:Oncotype DX",
+        "American Society of Anesthesiologists:ASA",
+        "UNSURED SENSE",
+        "slow acting/sustained action",
+        "sinus arrest",
+        "saturation"
+    ],
+    "BMP": [
+        "beta-natriuretic peptide:BNP",
+        "bone marrow transplant:BMT",
+        "bone morphogenetic protein",
+        "basic metabolic profile"
+    ],
+    "CEA": [
+        "carotid endarterectomy",
+        "cancer:CA",
+        "carcinoembryonic antigen",
+        "UNSURED SENSE",
+        "cerebrovascular accident:CVA"
+    ],
+    "AB": [
+        "NAME",
+        "X-ray finding",
+        "MISTAKE:abduction",
+        "arteriovenous:AV",
+        "abortion",
+        "antipyrine benzocaine",
+        "blood group in ABO system",
+        "atrioventricular:AV",
+        "type A, type B",
+        "ankle-brachial",
+        "arterial blood",
+        "UNSURED SENSE"
+    ],
+    "PA": [
+        "posterior-anterior",
+        "physician assistant",
+        "physician associates",
+        "pulmonary artery",
+        "tissue plasminogen activator:TPA",
+        "pulmonary embolus:PE",
+        "pulmonary auscultation",
+        "UNSURED SENSE"
+    ],
+    "T4": [
+        "thoracic (level) 4",
+        "thyroxine",
+        "tumor stage 4"
+    ],
+    "IVF": [
+        "inferior vena cava:IVC",
+        "intravenous fluid",
+        "UNSURED SENSE",
+        "in vitro fertilization"
+    ],
+    "OR": [
+        "(drug) OR",
+        "UNSURED SENSE",
+        "GENERAL ENGLISH",
+        "operating room"
+    ],
+    "ER": [
+        "extended release",
+        "emergency room",
+        "estrogen receptor"
+    ],
+    "T1": [
+        "term 1",
+        "type 1 (diabetes mellitus)",
+        "thoracic (level) 1",
+        "tumor stage 1",
+        "T1 (MRI)",
+        "UNSURED SENSE"
+    ],
+    "MS": [
+        "NAME",
+        "GENERAL ENGLISH",
+        "morphine sulfate",
+        "medical student",
+        "master of science",
+        "musculoskeletal",
+        "(drug) MS",
+        "mitral stenosis",
+        "UNSURED SENSE",
+        "multiple sclerosis"
+    ],
+    "OP": [
+        "occiput posterior",
+        "ova and parasites",
+        "ophthalmic",
+        "oropharynx",
+        "oblique presentation/occiput posterior",
+        "operative",
+        "outpatient",
+        "UNSURED SENSE"
+    ],
+    "C&S": [
+        "protein C and protein S",
+        "conjunctivae and sclerae",
+        "carcinosarcoma:CaS",
+        "central nervous system:CNS",
+        "culture and sensitivity"
+    ],
+    "PDA": [
+        "patient-controlled analgesia:PCA",
+        "patent ductus arteriosus",
+        "posterior descending artery"
+    ],
+    "C4": [
+        "cluster of differentiation 4:CD4",
+        "(complement) component 4",
+        "cervical (level) 4",
+        "(PO Box) C4",
+        "fourth heart sound:S4"
+    ],
+    "CDI": [
+        "clean, dry, intact",
+        "center for diagnostic imaging",
+        "UNSURED SENSE",
+        "Children's Depression Inventory"
+    ],
+    "DC": [
+        "(drug) DC",
+        "discontinue",
+        "District of Columbia",
+        "deceased donor:DD",
+        "direct and consensual",
+        "discharge",
+        "(diltiazem) DC",
+        "direct current"
+    ],
+    "PD": [
+        "prism diopter",
+        "pancreatic duct",
+        "dorsalis pedis:DP",
+        "Parkinson disease",
+        "patent ductus",
+        "(device) PD",
+        "phosphate dehydrogenase",
+        "police department",
+        "peritoneal dialysis",
+        "personality disorder",
+        "pulmonary embolus:PE",
+        "(drug) PD",
+        "posterior descending",
+        "purified protein derivative:PPD",
+        "UNSURED SENSE"
+    ],
+    "ET": [
+        "enterocutaneous:EC",
+        "electrophysiology:EP",
+        "elective termination",
+        "pressure equalization:PE",
+        "electroconvulsive therapy:ECT",
+        "enterostomal therapy",
+        "endotracheal",
+        "UNSURED SENSE"
+    ],
+    "SBP": [
+        "systolic blood pressure",
+        "spontaneous bacterial peritonitis"
+    ],
+    "OTC": [
+        "ornithine transcarbamoylase",
+        "over the counter"
+    ],
+    "GT": [
+        "gutta",
+        "gastrostomy tube",
+        "glucose tolerance",
+        "gamma-glutamyltransferase:GGT",
+        "glutamyl transpeptidase",
+        "guttae:GGT"
+    ],
+    "VBG": [
+        "vertical banded gastroplasty",
+        "venous blood gas"
+    ],
+    "MR": [
+        "magnetic resonance",
+        "medical record",
+        "GENERAL ENGLISH",
+        "mitral regurgitation",
+        "myocardial infarction:MI",
+        "mental retardation"
+    ],
+    "DM": [
+        "NAME",
+        "dextromethorphan",
+        "medical doctor:MD",
+        "diabetes mellitus",
+        "UNSURED SENSE"
+    ],
+    "IA": [
+        "transient ischemic attack:TIA",
+        "(class) IA",
+        "UNSURED SENSE",
+        "(type) IA",
+        "Iowa",
+        "(status) IA",
+        "(grade) IA",
+        "(stage) IA",
+        "intraarterial"
+    ],
+    "BM": [
+        "bowel movement",
+        "breast milk",
+        "bone marrow",
+        "UNSURED SENSE"
+    ],
+    "LE": [
+        "NAME",
+        "lower extremity",
+        "left ventricle:LV",
+        "lupus erythematosus",
+        "lymphedema",
+        "long-acting:LA",
+        "sinemet-levodopa",
+        "leukocyte esterase",
+        "UNSURED SENSE"
+    ],
+    "US": [
+        "United States",
+        "ultrasound",
+        "UNSURED SENSE",
+        "GENERAL ENGLISH"
+    ],
+    "AMA": [
+        "antimitochondrial antibody",
+        "advanced maternal age",
+        "against medical advice"
+    ],
+    "PCP": [
+        "patient-controlled analgesia:PCA",
+        "Pneumocystis jiroveci pneumonia",
+        "primary care physician",
+        "phencyclidine",
+        "UNSURED SENSE"
+    ],
+    "CVA": [
+        "cerebrovascular accident",
+        "costovertebral angle"
+    ],
+    "PAC": [
+        "(drug) PAC",
+        "premature atrial contraction",
+        "pulmonary artery catheter",
+        "physician assistant certification",
+        "post anesthesia care",
+        "pulmonary arterial concentration",
+        "picture archiving communication",
+        "patient-controlled analgesia:PCA",
+        "UNSURED SENSE",
+        "prostate-specific antigen:PSA"
+    ],
+    "SS": [
+        "single strength",
+        "sickle cell genotype SS",
+        "UNSURED SENSE"
+    ],
+    "AVR": [
+        "auditory brainstem response:ABR",
+        "aortic valve resistance",
+        "augmented voltage right arm",
+        "rapid ventricular response:RVR",
+        "aortic valve regurgitation",
+        "UNSURED SENSE",
+        "aortic valve replacement"
+    ],
+    "AV": [
+        "atrioventricular",
+        "aortic valve",
+        "arteriovenous",
+        "UNSURED SENSE"
+    ],
+    "CA": [
+        "California",
+        "UNSURED SENSE",
+        "cancer",
+        "carbohydrate antigen"
+    ],
+    "EC": [
+        "epirubicin",
+        "enteric-coated",
+        "MISTAKE:EZ PAP",
+        "enterocutaneous",
+        "extensor carpi",
+        "UNSURED SENSE"
+    ],
+    "PM": [
+        "metacarpophalangeal:MP",
+        "physical medicine and rehabilitation:PMR",
+        "afternoon",
+        "UNSURED SENSE"
+    ],
+    "PR": [
+        "pulse rate",
+        "(drug) PR",
+        "pulmonary regurgitation",
+        "pr interval",
+        "UNSURED SENSE",
+        "per rectum",
+        "progesterone receptor"
+    ],
+    "CR": [
+        "complete remission",
+        "C-reactive",
+        "closed reduction",
+        "controlled release",
+        "cardiorespiratory",
+        "creatinine"
+    ],
+    "MOM": [
+        "Mall of America:MOA",
+        "milk of magnesia",
+        "multiples of median",
+        "GENERAL ENGLISH"
+    ],
+    "NAD": [
+        "no acute distress",
+        "nothing abnormal detected"
+    ],
+    "DIP": [
+        "dipropionate",
+        "desquamative interstitial pneumonia",
+        "distal interphalangeal"
+    ],
+    "IB": [
+        "interferon beta",
+        "(cycle) IB",
+        "(status) IB",
+        "international baccalaureate",
+        "(grade) IB",
+        "(type) IB",
+        "(stage) IB",
+        "UNSURED SENSE",
+        "intravenous:IV"
+    ],
+    "PT": [
+        "prothrombin",
+        "prothrombin time",
+        "physical therapy",
+        "posterior tibial",
+        "UNSURED SENSE"
+    ],
+    "VAD": [
+        "vascular access device",
+        "vincristine adriamycin and dexamethasone",
+        "ventricular assist device",
+        "video-assisted thoracic surgery:VATS",
+        "UNSURED SENSE"
+    ],
+    "CTA": [
+        "clear to auscultation",
+        "computed tomographic angiography",
+        "cerebellopontine angle:CPA",
+        "UNSURED SENSE",
+        "creatine phosphokinase:CPK"
+    ],
+    "IR": [
+        "internal rotation",
+        "infrared",
+        "immediate-release",
+        "interventional radiology",
+        "UNSURED SENSE"
+    ],
+    "PE": [
+        "pressure equalization",
+        "pleural effusion",
+        "UNSURED SENSE",
+        "pulmonary embolus"
+    ],
+    "T3": [
+        "thoracic (level) 3",
+        "triiodothyronine",
+        "tumor stage 3",
+        "T3 (ECG pattern)",
+        "UNSURED SENSE",
+        "term 3"
+    ],
+    "T2": [
+        "thoracic (level) 2",
+        "T2 Nodes",
+        "S2 (heart sound):S2",
+        "tumor stage 2",
+        "term 2",
+        "UNSURED SENSE",
+        "T2 (MRI)"
+    ],
+    "CVP": [
+        "central venous pressure",
+        "cyclophosphamide, vincristine, prednisone",
+        "cardiovascular pulmonary"
+    ],
+    "FISH": [
+        "fluorescent in situ hybridization",
+        "GENERAL ENGLISH"
+    ],
+    "IT": [
+        "(drug) IT",
+        "GENERAL ENGLISH",
+        "immature-to-total neutrophil",
+        "idiopathic thrombocytopenic purpura:ITP",
+        "pravastatin or atorvastatin evaluation and infection therapy",
+        "intertrochanteric",
+        "inspiratory time",
+        "information technology",
+        "ischial tuberosity",
+        "intrathecal",
+        "UNSURED SENSE",
+        "iliotibial"
+    ],
+    "MSSA": [
+        "modified selective severity assessment",
+        "methicillin-susceptible Staphylococcus aureus"
+    ],
+    "IM": [
+        "intramedullary",
+        "UNSURED SENSE",
+        "intramuscular"
+    ],
+    "ASA": [
+        "American Society of Anesthesiologists",
+        "acetylsalicylic acid",
+        "aminosalicylic acid"
+    ],
+    "MP": [
+        "military police",
+        "metacarpophalangeal",
+        "metatarsophalangeal",
+        "mesangial proliferative",
+        "menstrual period",
+        "(drug) MP",
+        "metabolic panel",
+        "metarsophalangeal",
+        "UNSURED SENSE",
+        "metatarsophalangeal/metacarpophalangeal",
+        "mercaptopurine",
+        "milligram:mg",
+        "(device) MP",
+        "nurse practitioner:NP"
+    ],
+    "DT": [
+        "doppler echo:DE",
+        "dorsalis pedis:DP",
+        "(drug) DT",
+        "physical therapy:PT",
+        "deep vein thrombosis:DVT",
+        "diphtheria-tetanus",
+        "delirium tremens",
+        "UNSURED SENSE"
+    ],
+    "CVS": [
+        "chorionic villus sampling",
+        "customer, value, service",
+        "cardiovascular system"
+    ],
+    "ALD": [
+        "alanine aminotransferase:ALT",
+        "ad lib on demand",
+        "adrenoleukodystrophy",
+        "acetyl lysergic acid diethylamide",
+        "left anterior descending:LAD"
+    ],
+    "NP": [
+        "nasopharynx",
+        "nurse practitioner",
+        "(drug) NP",
+        "natriuretic peptide",
+        "nasopharyngeal",
+        "UNSURED SENSE"
+    ],
+    "FSH": [
+        "follicle-stimulating hormone",
+        "fascioscapulohumeral muscular dystrophy",
+        "Fairview Southdale Hospital"
+    ]
+}
