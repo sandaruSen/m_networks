@@ -713,6 +713,3 @@ if __name__ == '__main__':
             file.write('\n\n')
             file.write(str(e))
 
-    # create_positive_negative_pairs()
-
-#         anchor_sentences = create_anchor_sentences()
