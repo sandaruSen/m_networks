@@ -47,7 +47,7 @@ class config:
     biobert = True
     EPOCHS = 10
     LEARNING_RATE = 5e-4
-    DROPOUT = 0.5
+    DROPOUT = 0.7
     freeze_layer_count = 11
     WEIGHT_DECAY = 1e-5
 
